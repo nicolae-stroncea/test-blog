@@ -1,0 +1,2 @@
+source 'https://nicolae-stroncea.github.io/mediumish-theme-jekyll/'
+gem 'github-pages'
